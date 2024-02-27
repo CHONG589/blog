@@ -1,80 +1,27 @@
 ---
 title: 关于
-date: 2020-02-17 00:00:00
+date: 2024-02-27 00:00:00
 copyright: false
 ---
 
 ## 关于我
 
-90 后典型水瓶座猫科 ~~（少女，不是）~~ 宅女👧，坐标杭州。
+#### 学业上
 
-主攻 iOS 开发，~~面向谷歌/Stack OverFlow/技术文档~~能编写 Android、Web、小程序、Flutter 项目，我的技术博文曾经发布在[掘金](https://juejin.im/user/5ab4b9746fb9a028c812cad9)、[CSDN](https://blog.csdn.net/Code_Martell)、[知乎](https://www.zhihu.com/people/miao-miao-82-17-64)、[简书](https://www.jianshu.com/u/015e1c9d5d06)、[思否](https://segmentfault.com/u/fiteen)。
+00 后大四即将毕业的一名职场小白，在广州读大学。
 
-不追星、不追剧、不追番、不追文、偶尔打打王者，日常沉迷工作和学习，追求精神世界的快乐。
+2024，我终于向四年的大学生活告别，同时也为十六年的学生生涯画上了句点。本来是想考研继续自己的学业的，奈何考研失利，自己也不想二战了。在 2023 年 3 月多自己开始准备考研复习，那时在心里就决定考不上绝不二战，只给自己一次机会去拼一下。在这期间，自己的收获也很多，自己也很充实，多轮的复习专业课的过程中，以前看不懂的操作系统课，现在已经对它有了更深的了解，以及其他两门没学过的专业课，自己也对计算机有了更大的兴趣。
 
-钟情于悬疑、推理、烧脑题材，偶尔羞耻的傻白甜剧也可食用，习惯 2 倍速。
+不过，我最大的收获是自己的心更能静下来了，更加喜欢去图书馆，喜欢上那种氛围，在学习一门知识或者是一门技术的时候，静下心来学习是多么的重要，在备考的过程中，自己也是不断调整自己的过程，让自己以最高效率的去复习。
 
-完美主义，排版强迫症患者。
+虽然最后分数不理想，在备考的后期自己也异常崩溃，根本复习不完，结果不是那么的美好，但是我相信我在这个过程中收获的东西同样很宝贵，以及对整个过程的复盘，学习方法的错误，下次学习东西的时候自己会更加的注意这些问题。
 
-不是什么黑洞，生活技能点满，是干啥啥都行的小机灵～👀
+考完后，自己考的咋样多多少少还是有一点底的，那段时间也想了很多：*‘考不上怎么办’，‘出去找工作？...’*，反反复复的郁闷，最后也接收了自己，乃至于成绩出来后，心情没那么大的波动。
 
-**我是...**
+#### 个人
 
-（👇记得点开小箭头哦...）
+不追星、不追剧、不追番、偶尔会看看书，日常喜欢在电脑中捣鼓东西，逛 B 站，去发现有意思的东西以及技术。
 
-<details style="padding-left:12px;padding-bottom:10px">
-  <summary>运动小天才</summary>
-  <p style="font-size:12px; line-height:13px"> 🌟 大学期间蝉联全学院女生体质健康测试分数第一</p>
-  <p style="font-size:12px; line-height:13px"> 🏃 女子 800m 跑中考成绩 2'40</p>
-  <p style="font-size:12px; line-height:13px"> 🏆 小学全镇跳远冠军 </p>
-</details>
-<details style="padding-left:12px;padding-bottom:10px">
-  <summary>虚假的王者</summary>
-  <p style="font-size:12px; line-height:13px"> 🎮 熟悉 KPL 各大战队选手英雄池和 BP 风格</p>
-  <p style="font-size:12px; line-height:13px"> 👀 意识流召唤师，嘴强王者</p>
-  <p style="line-height:10px"> </p>
-</details>
-<details style="padding-left:12px;padding-bottom:10px">
-  <summary>脑洞怪兽</summary>
-  <p style="font-size:12px; line-height:13px"> 💡 脑袋中常爆发特别的灵感</p>
-  <p style="font-size:12px; line-height:13px"> 🎨 想要用有趣的灵魂过有趣的人生</p>
-</details>
-<details style="padding-left:12px;padding-bottom:10px">
-  <summary>熬夜冠军</summary>
-  <p style="font-size:12px; line-height:13px"> 🌝 参加美赛建模曾四天四夜不睡觉</p>
-  <p style="font-size:12px; line-height:13px"> 👸 入夜，头脑清醒、文思泉涌、茅塞顿开...</p>
-</details>
-<details style="padding-left:12px;padding-bottom:10px">
-  <summary>无辣不欢</summary>
-  <p style="font-size:12px; line-height:13px"> 🌶️ 可以直接嚼辣椒</p>
-  <p style="font-size:12px; line-height:13px"> 🍲 钟情麻辣香锅、四川重庆火锅</p>
-  <p style="line-height:10px"> </p>
-</details>
-<details style="padding-left:12px;padding-bottom:10px">
-  <summary>热搜雷达</summary>
-  <p style="font-size:12px; line-height:13px"> 🏂 掌握实时热点和八卦信息</p>
-  <p style="font-size:12px; line-height:13px"> 👻 能接梗</p>
-  <p style="line-height:10px"> </p>
-</details>
-<details style="padding-left:12px;padding-bottom:10px">
-  <summary>预言家</summary>
-  <p style="font-size:12px; line-height:13px"> 🥛 鲜奶，能够无预兆地预测到未来发生的事</p>
-  <p style="font-size:12px; line-height:13px"> 🎰 只要不参与下注，预测比赛胜负正确率奇高无比</p>
-  <p style="font-size:12px; line-height:13px"> 🚗 不依赖导航，靠第六感寻找目的地能力满分</p>
-  <p style="line-height:10px"></p>
-</details>
-<details style="padding-left:12px;padding-bottom:10px">
-  <summary>树洞</summary>
-  <p style="font-size:12px; line-height:13px"> 👭 朋友们负能量的消除者</p>
-  <p style="font-size:12px; line-height:13px"> 🐌 会迟到但不会失约的小伙伴</p>
-</details>
+刚上大学时开始接触编程，自己最开始接触的是在虚拟机上学习基本的 linux 知识，当然一上来就接触这个肯定很痛苦，不过自己也坚持了下来，让之后我对 linux 系统喜欢打下了基础，那时自己的目标是大学毕业后要在自己电脑实体机上安装一个 linux 系统（嘻嘻，这个到现在还没实现）。后来学习越来越多的编程知识后，就想跟着网上的教程去写 linux 内核，但都没坚持下来（很多没听懂），学习了考研的四门基础课后（数据结构、操作系统、计算机组成原理、计算机网络），对相关的知识了解的更加充分，自己就想再去跟着教程实现。
 
-## 关于博客
 
-感谢以下项目为本博客提供服务支持：
-
-- [x] 框架主题：[Hexo 5.1.1](https://hexo.io/) + [inside 2.7.0-beta.6](https://github.com/ikeq/hexo-theme-inside)
-- [x] 托管服务：[GitHub Pages](https://pages.github.com)
-- [x] 评论系统：[Valine](https://valine.js.org)
-- [x] 持续集成：[Travis CI](https://travis-ci.org)
-- [x] 统计服务：[LeanCloud](https://www.leancloud.cn)、[不蒜子](http://busuanzi.ibruce.info)
