@@ -97,7 +97,7 @@ profile:
 # Sidebar navigation links
 menu:
   📝 Article: /
-  ⏳ Resources: /resources
+  ⏳ Learn: /Learn
   ⌨️ LeetCode: /leetcode
   🐈 About: /about
   # 🔗 Links: /links
@@ -169,7 +169,7 @@ post:
   copyright: true
 
 # Archive
-archive:
+archives:
   # per_page: 10
 
 # Tag
@@ -285,10 +285,10 @@ copyright:
   #   rel=\"external nofollow\" target=\"_blank\">CC BY-NC-ND 4.0</a>)
 
   # Display published date, default to `false`
-  # published: false
+  published: true
 
   # Display updated date, default to `false`
-  # updated: false
+  updated: true
 
   # Custom text, override above settings
   # custom: my copyright
