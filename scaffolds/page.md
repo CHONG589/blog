@@ -1,4 +1,5 @@
 ---
+author: {{author}}
 title: {{ title }}
 date: {{ date }}
 ---
